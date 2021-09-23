@@ -1,5 +1,6 @@
+<!--
 [remotetheme.github.io](https://remotetheme.github.io/)
-
+-->
 ___
 # 藤野研Github環境の案内
 
@@ -12,6 +13,23 @@ Gitとは、最新の分散型バージョン管理システムの一種であ�
 ## [必読] ルール
 
 - 学生が各自意識すること
-- Github管理ルール (管理者向け)
+- GitHub管理ルール (管理者向け)
 
 [確認する](./rules/index.md)
+
+## 使い方
+
+- アカウントの作り方
+- Git環境の立ち上げ
+
+[確認する](./howto/index.md)
+
+## 管理者向け
+
+- ユーザの追加
+
+[確認する](./admin/index.md)
+
+## (旧環境利用者向け) GitLabからの移行
+
+[確認する](./port_from_Gitlab/index.md)
