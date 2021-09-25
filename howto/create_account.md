@@ -13,3 +13,6 @@
 
 ![](./create_account_imgs/2.png)
 
+登録したメールアドレスにGitHubからメールが来るので，メール内の`verify email address`ボタンを押し，メールアドレスの確認を完了する．
+
+[GitHub](https://github.com/)にアクセスし，登録したユーザ名とパスワードでサインインできることを確認する．
