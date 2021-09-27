@@ -17,3 +17,13 @@
 
 ![](./join_organization_imgs/2.png)
 ![](./join_organization_imgs/3.png)
+
+## アカウントを設定する
+
+`Settings`を開く
+
+![](./join_organization_imgs/4.png)
+
+`Profile`->`Name`に本名をローマ字で記載する (GitHub上で表示される名前)
+
+![](./join_organization_imgs/5.png)
